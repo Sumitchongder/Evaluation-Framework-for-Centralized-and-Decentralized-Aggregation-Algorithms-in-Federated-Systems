@@ -71,7 +71,7 @@ The framework is designed for:
 * **Figure 3:** Architecture overview of Decentralized Continual Federated Learning (CFL)
 
 <p align="center">
-  <img width="600" height="400" alt="Image" src="https://github.com/user-attachments/assets/1b8401ea-4d58-4306-81f4-63620a7534ec" />
+  <img width="600" height="700" alt="Image" src="https://github.com/user-attachments/assets/1b8401ea-4d58-4306-81f4-63620a7534ec" />
 </p>
 
 ---
